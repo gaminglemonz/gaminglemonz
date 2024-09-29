@@ -20,6 +20,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white">
 
   <h2>My Stats</h2>
-  <img src="[https://github-readme-stats.vercel.app/api?username=gaminglemonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1](https://github-readme-stats.vercel.app/api?username=gaminglemonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaminglemonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1](https://github-readme-stats.vercel.app/api?username=gaminglemonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)" height="150" alt="stats graph"  />
   <img alt='top languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaminglemonz&theme=dark"/>
 </div>
