@@ -9,6 +9,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white">
   
   <h2>Platforms</h2>
   <img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
@@ -16,8 +17,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/replit-orange?style=for-the-badge&logo=replit&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/glitch-0704c2?style=for-the-badge&logo=glitch&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white">
 
   <h2>My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=gaminglemonz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
